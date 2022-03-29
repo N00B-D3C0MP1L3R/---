@@ -4,6 +4,7 @@ apt update
 apt upgrade
 pkg install python
 pkg install python2
+pip install rich
 pip2 install requests
 pip2 install mechanize
 pkg install python2 git nodejs
